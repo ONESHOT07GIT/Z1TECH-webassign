@@ -75,12 +75,4 @@ streamlit run app.py
 2. View the resized images.
 3. Post the resized images to X with a click of a button.
 
-## Development and Contribution
-Feel free to fork this repository and contribute to the project. To contribute:
-- Clone the repository.
-- Create a new branch.
-- Make your changes.
-- Submit a pull request.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
